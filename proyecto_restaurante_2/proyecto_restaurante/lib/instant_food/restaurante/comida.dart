@@ -911,7 +911,7 @@ class SecondRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '3.99 dólares',
+                                '4 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1065,7 +1065,7 @@ class SecondRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '5.99 dólares',
+                                '6 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1219,7 +1219,7 @@ class SecondRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '6.99 dólares',
+                                '7 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1398,7 +1398,7 @@ class ThirdRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '2.99 dólares',
+                                '3 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1551,7 +1551,7 @@ class ThirdRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '2.50 dólares',
+                                '3 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1704,7 +1704,7 @@ class ThirdRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '3.99 dólares',
+                                '5 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -1883,7 +1883,7 @@ class QuartRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '4.99 dólares',
+                                '8 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -2037,7 +2037,7 @@ class QuartRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '6.99 dólares',
+                                '7 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
@@ -2216,7 +2216,7 @@ class QuartRoute extends StatelessWidget {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                '6.99 dólares',
+                                '7 dólares',
                                 style: TextStyle(
                                   color: Colors.grey[900],
                                 ),
